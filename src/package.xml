@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package name="null" displayName="Null Package" description="Null Package for Demonstration Purposes" version="1.0.0">
+
+	<dataSheet name="RunControl" isRunControl="True"></dataSheet>
+	<transformer name="Main" programName="notepad.exe" isStochasticTime="True"></transformer>
+
+	<layout type="Scenario">
+		<item name="RunControl"/>
+	</layout>
+
+</package>
